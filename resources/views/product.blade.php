@@ -1,7 +1,7 @@
 <x-home-layout>
 <body>
   <div class="flex h-screen flex-warp md:shrink-0">
-    <div class="mx-7 my-40 flex h-screen flex-warp md:shrink-0">
+    <div class="mx-7 my-40 flex  flex-warp aspect-auto">
       <div class="ml-2">
         {{-- BOX BASIC --}}
             <div class="p-5 py-auto px-auto max-w-sm rounded-lg overflow-hidden shadow-lg border-solid border-blue-200 border-4 hover:border-green-600 bg-white">
